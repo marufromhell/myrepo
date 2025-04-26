@@ -1,5 +1,5 @@
 Hey, I'm Maru
-I write mostly in python. I occasionally write small projects in rust, but they usually aren't significant enough to have their own repos.
+I write mostly in python. I occasionally write small projects in rust and C, but they usually aren't significant enough to have their own repos.
 Check out my biggest project NKNK, the python CLI.
 Contact:
 Email: maru@lithium-dev.xyz (pgp attached)
